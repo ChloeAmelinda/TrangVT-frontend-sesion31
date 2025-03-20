@@ -16,8 +16,7 @@ const employees=[
 
     function hienthi() {
             let tableBody = document.getElementById("employeeTable").getElementsByTagName("tbody")[0]; 
-            tableBody.innerHTML = "";
-
+       
             for (let i = 0; i < employees.length; i++) {
                 let employee = employees[i];
                 let row = tableBody.insertRow(); 
