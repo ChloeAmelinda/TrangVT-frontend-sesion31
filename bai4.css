@@ -1,0 +1,15 @@
+.main{
+    background-color: white;
+    color: black;
+}
+.text{
+    background-color: white;
+    color: rgb(21, 5, 5);
+    margin: 15% auto;
+    border: 1px solid black;
+    width: 80%;
+
+}
+.close{
+   margin-left: auto
+}

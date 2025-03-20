@@ -1,0 +1,27 @@
+.blue{
+    width: 50%;
+    height: 50%;
+    background-color: green;
+
+}
+.backGround{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+.red{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(143, 12, 38);
+
+}
+.purple{
+    width: 50%;
+    height: 50%;
+    background-color: palevioletred;
+
+}
